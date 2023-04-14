@@ -1,2 +1,6 @@
 AULA MARAVILHOSA DE GIT E GITHUB
 ESTUDEM O LXS E REVEJAM ESSA AULA <3
+<<<<<<< HEAD
+=======
+
+>>>>>>> branchDaAula
